@@ -1,9 +1,9 @@
 {
-  "name": "deep-extend",
-  "description": "Recursive object extending.",
+  "name": "deep-extend-with-scheme",
+  "description": "Recursive object extending, with support for schemes.",
   "license": "MIT",
-  "version": "0.3.2",
-  "homepage": "https://github.com/unclechu/node-deep-extend",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jkaan/node-deep-extend",
   "keywords": [
     "deep-extend",
     "extend",
@@ -12,26 +12,17 @@
     "xtend",
     "clone",
     "merge",
-    "json"
+    "json",
+    "scheme"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/unclechu/node-deep-extend.git"
+    "url": "git://github.com/jkaan/node-deep-extend.git"
   },
   "author": {
-    "name": "Viacheslav Lotsmanov (unclechu)",
-    "email": "lotsmanov89@gmail.com"
+    "name": "Joey Kaan (jkaan)",
+    "email": "joey94jk@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Romain Prieto",
-      "url": "https://github.com/rprieto"
-    },
-    {
-      "name": "Max Maximov",
-      "url": "https://github.com/maxmaximov"
-    }
-  ],
   "main": "index",
   "engines": {
     "node": ">=0.4"
