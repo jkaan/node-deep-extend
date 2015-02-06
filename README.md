@@ -25,7 +25,7 @@ Usage
 		a: Array
 	};
 
-	deepExtend(obj1, obj2, scheme);
+	deepExtend(obj1, obj2, {scheme: scheme});
 
 	console.log(obj1);
 	/*

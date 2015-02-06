@@ -2,7 +2,7 @@
   "name": "deep-extend-with-scheme",
   "description": "Recursive object extending, with support for schemes.",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "homepage": "https://github.com/jkaan/node-deep-extend",
   "keywords": [
     "deep-extend",
